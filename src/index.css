@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.fondo{
+  background-color: #0f141d;
+  height: 100vh;
+}
+.fondo_claro{
+  background-color: #141b29b4;
+}
+.texto-primario{
+ color: rgb(147, 187, 255);
+}
